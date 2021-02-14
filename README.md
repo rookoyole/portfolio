@@ -31,23 +31,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rookoyole/mod1seo">
+  <a href="https://github.com/rookoyole/portfolio">
     <img src="assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Horiseon Site Refactor</h3>
+  <h3 align="center">Kyle Ryan's Portfolio</h3>
 
   <p align="center">
-    UA Bootcamp - Module 1 Challenge
+    UA Bootcamp - Module 2 Challenge
         <br />
-        <a href="https://github.com/rookoyole/mod1seo"><strong>Explore the docs »</strong></a>
+        <a href="https://github.com/rookoyole/portfolio"><strong>Explore the docs »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/rookoyole/mod1seo">View Demo</a>
+        <a href="https://github.com/rookoyole/portfolio">View Demo</a>
         ·
-        <a href="https://github.com/rookoyole/mod1seo/issues">Report Bug</a>
+        <a href="https://github.com/rookoyole/portfolio/issues">Report Bug</a>
         ·
-        <a href="https://github.com/rookoyole/mod1seo/issues">Request Feature</a>
+        <a href="https://github.com/rookoyole/portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,45 +70,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
 
-"This week is an odd-numbered week, so your Challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify."
-
-Acceptance Criteria:
-
-* GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
-
-Corrected the following HTML code:
-
-* Updated title
-* Changed 'hero' from div to section, using semantic elements
-* Changed 'content' from div to section, using semantic elements
-* Added id for accessibility navigation
-* Added alt tags for img accessibility
-* Changed 'benefits' from div to aside, using semantic elements
-* Changed 'footer' from div to footer, using semantic elements
-
-Corrected the following CSS code:
-
-* Updated header selectors to match semantic element updates in HTML
-* Reordered sections, moved Content section to before Side Bar section to follow semantic structure
-* Consolidated selectors
-* Updated footer selectors to match semantic element updates in HTML
+The purpose of this project was to create a personalized, attractive, constently evolving collection of my work. With this in mind, I added multiple "Future Work" flex cards to easily add new projects as I create them.
 
 <!-- PROJECT LINKS -->
 ## Project Links
 
-Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/mod1seo/)
+Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/portfolio/)
 
-Repository Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/mod1seo)
+Repository Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/portfolio)
 
 <!-- CONTACT -->
 ## Contact

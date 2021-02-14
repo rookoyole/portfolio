@@ -5,7 +5,7 @@
 }
 
 :root {
-  --primary-color:#0e462394;
+  --primary-color:#da8517e7;
   --secondary-color: #024e76;
   --tertiary-color: #5d6170;
   --fourth-color: #cacdda;
@@ -553,7 +553,11 @@ section {
   }
   
   .trainer {
-    flex: 0 70%;
+    flex: 0 40%;
+  }
+
+  .first-flex {
+    margin: 0 100px;
   }
   
   .contact-info iframe{
@@ -588,6 +592,14 @@ section {
   .step-text {
     flex: 100%;  
   }
+
+  .trainer {
+    flex: 0 40%;
+  }
+
+  .first-flex {
+    margin: 0 100px;
+  }
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
@@ -618,5 +630,11 @@ section {
 
   .contact-form {
     order: 3;
+  }
+  .trainer {
+    flex: 0 20%;
+  }
+  .first-flex {
+    margin: 0 100px;
   }
 }
