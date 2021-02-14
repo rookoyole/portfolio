@@ -75,9 +75,9 @@ The purpose of this project was to create a personalized, attractive, constently
 <!-- PROJECT LINKS -->
 ## Project Links
 
-Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/portfolio/)
+Hosted Link: [https://rookoyole.github.io/portfolio/](https://rookoyole.github.io/portfolio/)
 
-Repository Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/portfolio)
+Repository Link: [https://github.com/rookoyole/portfolio](https://github.com/rookoyole/portfolio)
 
 <!-- CONTACT -->
 ## Contact
