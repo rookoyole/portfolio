@@ -112,7 +112,7 @@ section {
 
 /* HERO STYLES START */
 .hero {
-  background-image: url('../images/profile.jpg');
+  background-image: url('../images/profile.JPG');
   background-size: cover;
   background-position: center;
   display: flex;
