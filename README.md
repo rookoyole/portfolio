@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](./assets/images/screenshot.png)
 
 The purpose of this project was to create a personalized, attractive, constently evolving collection of my work. With this in mind, I added multiple "Future Work" flex cards to easily add new projects as I create them.
 
