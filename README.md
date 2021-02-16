@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/portfolio">
-    <img src="assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src="./assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Kyle Ryan's Portfolio</h3>
@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](assets/images/Profile-Pic.jpg)
 
 The purpose of this project was to create a personalized, attractive, constently evolving collection of my work. With this in mind, I added multiple "Future Work" flex cards to easily add new projects as I create them.
 
@@ -88,14 +88,14 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/mod1seo.svg?style=for-the-badge
-[contributors-url]: https://github.com/rookoyole/mod1seo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rookoyole/mod1seo.svg?style=for-the-badge
-[forks-url]: https://github.com/rookoyole/mod1seo/network/members
-[stars-shield]: https://img.shields.io/github/stars/rookoyole/mod1seo.svg?style=for-the-badge
-[stars-url]: https://github.com/rookoyole/mod1seo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rookoyole/mod1seo.svg?style=for-the-badge
-[issues-url]: https://github.com/rookoyole/mod1seo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/portfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/rookoyole/portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rookoyole/portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/rookoyole/portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/rookoyole/portfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/rookoyole/portfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rookoyole/portfolio.svg?style=for-the-badge
+[issues-url]: https://github.com/rookoyole/portfolio/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: assets/images/site-screenshot.jpg
+[product-screenshot]: assets/images/screenshot.png
